@@ -1,6 +1,6 @@
 # Blog
 
-A growing collection of casual writings.
+More to follow.
 
 ## Notes
 
